@@ -1,0 +1,14 @@
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\bin\Debug\net6.0\18.9.exe
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\bin\Debug\net6.0\18.9.deps.json
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\bin\Debug\net6.0\18.9.runtimeconfig.json
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\bin\Debug\net6.0\18.9.dll
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\bin\Debug\net6.0\18.9.pdb
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.AssemblyInfoInputs.cache
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.AssemblyInfo.cs
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.dll
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\refint\18.9.dll
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.pdb
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\18.9.genruntimeconfig.cache
+C:\Users\MSI GL75\OneDrive\Tài liệu\.net hoc lai\18.9\18.9\obj\Debug\net6.0\ref\18.9.dll
